@@ -1,0 +1,79 @@
+[
+  {
+    "id": "blusa-azul",
+    "nome": "Camiseta azul-marinho",
+    "categoria": "Parte de cima",
+    "cor": "Azul-marinho",
+    "descricao": "Camiseta básica de algodão."
+  },
+  {
+    "id": "camisa-branca",
+    "nome": "Camisa branca",
+    "categoria": "Parte de cima",
+    "cor": "Branco",
+    "descricao": "Camisa leve para usar aberta ou fechada."
+  },
+  {
+    "id": "jaqueta-jeans",
+    "nome": "Jaqueta jeans",
+    "categoria": "Parte de cima",
+    "cor": "Azul jeans",
+    "descricao": "Jaqueta casual de lavagem clara."
+  },
+  {
+    "id": "jeans-reto",
+    "nome": "Jeans reto",
+    "categoria": "Parte de baixo",
+    "cor": "Azul jeans",
+    "descricao": "Calça jeans de corte reto."
+  },
+  {
+    "id": "calca-preta",
+    "nome": "Calça de alfaiataria",
+    "categoria": "Parte de baixo",
+    "cor": "Preto",
+    "descricao": "Calça confortável para uma produção mais alinhada."
+  },
+  {
+    "id": "saia-azul",
+    "nome": "Saia midi",
+    "categoria": "Parte de baixo",
+    "cor": "Azul claro",
+    "descricao": "Saia midi de tecido leve."
+  },
+  {
+    "id": "tenis-branco",
+    "nome": "Tênis casual",
+    "categoria": "Calçado",
+    "cor": "Branco",
+    "descricao": "Tênis versátil para o dia a dia."
+  },
+  {
+    "id": "tenis-azul",
+    "nome": "Tênis urbano",
+    "categoria": "Calçado",
+    "cor": "Azul",
+    "descricao": "Tênis confortável com detalhes azuis."
+  },
+  {
+    "id": "bota-preta",
+    "nome": "Bota de cano curto",
+    "categoria": "Calçado",
+    "cor": "Preto",
+    "descricao": "Bota casual de cano curto."
+  },
+  {
+    "id": "bolsa-azul",
+    "nome": "Bolsa transversal",
+    "categoria": "Acessório",
+    "cor": "Azul",
+    "descricao": "Bolsa compacta para completar o look."
+  },
+  {
+    "id": "oculos-escuros",
+    "nome": "Óculos de sol",
+    "categoria": "Acessório",
+    "cor": "Preto",
+    "descricao": "Acessório clássico para dias ensolarados."
+  }
+]
